@@ -1,0 +1,7 @@
+dataset2-20260922T180035Z-1-001/
+prepared_dataset/
+runs/
+artifacts/
+*.pt
+mobile/android/app/src/main/assets/models/*.onnx
+!mobile/android/app/src/main/assets/models/README.md
